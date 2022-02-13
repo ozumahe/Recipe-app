@@ -1,0 +1,14 @@
+.meal__card-btn {
+  background: #d3bf4d;
+  border: 2px solid #fff;
+  transition: all 0.3s linear;
+}
+.meal__card-btn:hover {
+  color: #d3bf4d;
+  background: rgb(253, 250, 232);
+  border: 2px solid #d3bf4d;
+}
+.FiberManualRecordIcon {
+  color: #d3bf4d;
+  transform: scale(0.7);
+}

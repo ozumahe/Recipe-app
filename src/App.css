@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap");
+* {
+  margin: 0;
+}
+.app {
+  font-family: "Inconsolata", monospace;
+}
+.app__nav {
+  background: #d3bf4d;
+}
+
+.app__category:hover {
+  border: 1px solid #d3bf4d;
+}
